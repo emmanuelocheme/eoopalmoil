@@ -1,2 +1,0 @@
-# eoopalmoil
-site for palmoil
